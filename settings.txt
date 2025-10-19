@@ -1,2 +1,3 @@
 # Project Update
 Update contact list
+Add a guide for local debugging and tracing issues
