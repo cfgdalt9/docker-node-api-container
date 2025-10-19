@@ -1,3 +1,4 @@
 # Project Update
 Update contact list
 Add a guide for local debugging and tracing issues
+Convert callback-based API calls to async/await promises
